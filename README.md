@@ -1,27 +1,12 @@
 # AngularBasicsExercises
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.3.
+## Reflecting on my progress:
 
-## Development server
+- Integrating multiple components into a single angular app felt a little like when you're inside of a mirror maze at the county fair in a way, I did feel like after watching Max's videos I overcomplicated the first exercise
+because as i pictured how I would start to create the class and for profile, I ended up forgetting when i imported the components I created, so to make it easier I generated the new component instead and then remembered I
+liked the way Max showed how to add a class model to a component so I went down that route for that exercise
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- I realize that some problems are easier than they sound in my mind.. for the counter exercise , we needed to create a simple counter and I always try to add a for loop to the increments but I remember to take a step back and see
+  the easier ,less code way to solve the problem
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+  I did enjoy using Angular though, the way the code is organized in its own designated files/folders/components is pretty cool even if it is a little confusing to navigate at first
